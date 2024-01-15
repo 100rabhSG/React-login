@@ -1,0 +1,26 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.name{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    display: inline;
+    float: left;
+    margin-left: 20%;
+}
+
+.btn{
+    float: right;
+    margin-right: 25%;
+    font-size:larger;
+    background-color: rgb(185, 93, 93);
+    color: white;
+    border-radius: 3px;
+    height: fit-content;
+    margin-top: 3%;
+    padding: 6px;
+    vertical-align: middle;
+}
